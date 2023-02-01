@@ -1,0 +1,13 @@
+.card-img-top{
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+img{
+    height: 50vw;
+    object-fit: cover;
+}
+svg{
+    object-fit: cover;
+    height: 10px;
+}
